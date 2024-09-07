@@ -41,18 +41,18 @@ export default function DashboardPage() {
       <section className='bg-background-secondary py-20 max-lg:py-10'>
         <div className='mx-auto grid max-w-screen-lg grid-cols-3 gap-7 px-8 py-5 max-lg:max-w-fit max-lg:grid-cols-1 max-lg:gap-10'>
           <div className='text-center'>
-            <h2 className='mb-3  text-xl font-semibold'>{t('Approachable')}</h2>
+            <h2 className='mb-3  text-xl font-semibold'>{t('AI-Powered Fraud Detection:')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
               {t(
-                'Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features'
+                'Ensures transactions are safe and genuine.'
               )}
             </p>
           </div>
           <div className='text-center'>
-            <h2 className='mb-3 text-xl font-semibold'>{t('Versatile')}</h2>
+            <h2 className='mb-3 text-xl font-semibold'>{t('Smart Contracts:')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
               {t(
-                'Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals'
+                'Automates and secures micro-donations, rewards distribution, and governance.'
               )}
             </p>
           </div>
