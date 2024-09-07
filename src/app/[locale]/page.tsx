@@ -16,7 +16,7 @@ export default function DashboardPage() {
         </h1>
         <div className='my-6 px-20 text-center text-2xl text-text-secondary'>
           {t(
-            'An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications'
+            'Creating a platform that empowers content creators by providing scalable, secure, and transparent monetization through micro-donations, NFT rewards, governance rights, and AI-powered fraud detection.'
           )}
         </div>
         <div className='mt-4 flex flex-row gap-4'>
