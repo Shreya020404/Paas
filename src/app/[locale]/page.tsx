@@ -21,7 +21,7 @@ export default function DashboardPage() {
         </div>
         <div className='mt-4 flex flex-row gap-4'>
           <a
-            href='https://github.com/new?template_name=nextjs-template&template_owner=yahyaparvar'
+            href='https://auth0-saas-starter-eight-gamma.vercel.app/'
             target='_blank'
           >
             <Button rounded size='large'>
