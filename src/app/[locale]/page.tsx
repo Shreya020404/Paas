@@ -9,14 +9,14 @@ export default function DashboardPage() {
         <h1 className='text-center text-7xl font-extrabold leading-tight'>
           {t('A')}{' '}
           <span className='bg-span-bg bg-clip-text text-transparent'>
-            {t('Micro-Donation')}
+            {t('Social-Media')}
           </span>
           <br />
           {t('Platform for Content Creators')}
         </h1>
         <div className='my-6 px-20 text-center text-2xl text-text-secondary'>
           {t(
-            'Creating a platform that empowers content creators by providing scalable, secure, and transparent monetization through micro-donations, NFT rewards, governance rights, and AI-powered fraud detection.'
+            'Creating a platform that empowers content creators by providing scalable, secure, and transparent monetization through micro-donations, and AI-powered fraud detection.'
           )}
         </div>
         <div className='mt-4 flex flex-row gap-4'>
@@ -57,10 +57,10 @@ export default function DashboardPage() {
             </p>
           </div>
           <div className='text-center'>
-            <h2 className='mb-3 text-xl font-semibold'>{t('Performant')}</h2>
+            <h2 className='mb-3 text-xl font-semibold'>{t('Transparent')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
               {t(
-                'A_rich_incredibly_adoptable_template_that_scales_between_a_small_showcase_website_and_a_full_size_app'
+                'Fully Transparent micro donation system using Aptos Blockchain'
               )}
             </p>
           </div>
